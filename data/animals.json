@@ -119,6 +119,16 @@
         "loving"
       ],
       "id": "11"
+    },
+    {
+      "name": "Klunkerfluten",
+      "species": "OwlBear",
+      "diet": "herbivore",
+      "personalityTraits": [
+        "hungry",
+        "zany"
+      ],
+      "id": "12"
     }
   ]
 }
